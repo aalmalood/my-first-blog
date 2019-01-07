@@ -1,0 +1,9 @@
+#CMD
+git add --all 
+git status
+git commit -m "Changed the HTML for the site."
+git push
+
+#python anywhere console
+cd ~/<your-pythonanywhere-username>.pythonanywhere.com
+git pull
